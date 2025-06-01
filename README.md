@@ -1,4 +1,4 @@
-# Table of Contents
+# Indice
 
 - [Introduzione](#cti-project_2024-25)
 - [Obiettivo](#obiettivo)

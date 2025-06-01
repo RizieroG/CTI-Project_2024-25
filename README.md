@@ -91,6 +91,6 @@ Di seguito mostriamo i documenti utilizzati per le nostre analisi.
 
 ## Note
 
-Questo progetto si basa e approfondisce il lavoro svolto dai nostri colleghi **Sofia Della Penna** e **Lorenzo Parracino** con il progetto [CTI-HAL](https://github.com/dessertlab/CTI-HAL/tree/main).
+Questo progetto si basa e approfondisce il lavoro svolto dai nostri colleghi **Sofia Della Penna** e **Lorenzo Parracino** con il progetto basato su [CTI-HAL](https://github.com/dessertlab/CTI-HAL/tree/main).
 Per maggiori dettagli sulla loro ricerca, si rimanda alla [repository CTI-HAL](https://github.com/dessertlab/CTI-HAL/tree/main) e al paper:
 [CTI-HAL: A Human-Annotated Dataset for Cyber Threat Intelligence Analysis](https://arxiv.org/html/2504.05866v1).
